@@ -1,0 +1,2 @@
+house =3
+rent =7
